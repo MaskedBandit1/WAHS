@@ -16,7 +16,7 @@ var Crew = React.createClass({
                     </div>
                     <div className="media-object-section">
                         <h4>Maria Molina.</h4>
-                        <p>Maria Molina is the head of WAHS News. She has led WAHS to numerous award, including Best Daily-Taped Show in the Nation.</p>
+                        <p>Maria Molina is the head of WAHS News and the President of the Florida State Press Association. She has led WAHS to numerous awards, including Best Daily-Taped Show in the Nation.</p>
                     </div>
 
                     <hr></hr>
@@ -33,7 +33,7 @@ var Crew = React.createClass({
                     <hr></hr>
                     <div className="media-object-section">
                         <div className="thumbnail">
-                            <img src="/assets/AnuragPic.jpg" className="barreto-image" height="200" width="200"></img>
+                            <img src="/assets/barreto_image.jpg" className="barreto-image" height="200" width="200"></img>
                         </div>
                     </div>
                     <div className="media-object-section">
@@ -99,7 +99,7 @@ var Crew = React.createClass({
                     <hr></hr>
                     <div className="media-object-section">
                         <div className="thumbnail">
-                            <img src="/assets/Adrianne_image.jpg" className="donskoi-image" height="200" width="200"></img>
+                            <img src="/assets/donskoi_image.jpg" className="donskoi-image" height="200" width="200"></img>
                         </div>
                     </div>
                     <div className="media-object-section">
