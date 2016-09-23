@@ -14,7 +14,7 @@ var Nav = React.createClass({
                         <div className="top-bar-left">
                             <ul className="menu" color="black">
                                 <li className="nav-logo-image" color="black">
-                                    <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}><img src="/assets/wahs_logo.png" height="40" width="40"></img></IndexLink>
+                                    <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}><img src="/assets/WAHS_logo2.0.png" height="40" width="40"></img></IndexLink>
                                 </li>
                                 <li>
                                     <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Feed</IndexLink>
