@@ -2,7 +2,7 @@ var React = require('react');
 var Article = require('Article');
 
 var articleList = [
-    { avatar: "/assets/Gianna_image.png", title: "WAHS Introduction Sequence", subtitle: "",
+    { avatar: "/assets/Gianna_image.jpg", title: "WAHS Introduction Sequence", subtitle: "",
         text: "",
         video: "https://www.youtube.com/embed/Z53t4xdtbtE",
         author: "Gianna Sanchez" },

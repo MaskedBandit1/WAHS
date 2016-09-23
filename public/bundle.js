@@ -26136,7 +26136,7 @@
 	                    React.createElement(
 	                        "p",
 	                        null,
-	                        "Maria Molina is the head of WAHS News. She has led WAHS to numerous award, including Best Daily-Taped Show in the Nation."
+	                        "Maria Molina is the head of WAHS News and the President of the Florida State Press Association. She has led WAHS to numerous awards, including Best Daily-Taped Show in the Nation."
 	                    )
 	                ),
 	                React.createElement("hr", null),
@@ -26170,7 +26170,7 @@
 	                    React.createElement(
 	                        "div",
 	                        { className: "thumbnail" },
-	                        React.createElement("img", { src: "/assets/AnuragPic.jpg", className: "barreto-image", height: "200", width: "200" })
+	                        React.createElement("img", { src: "/assets/barreto_image.jpg", className: "barreto-image", height: "200", width: "200" })
 	                    )
 	                ),
 	                React.createElement(
@@ -26314,7 +26314,7 @@
 	                    React.createElement(
 	                        "div",
 	                        { className: "thumbnail" },
-	                        React.createElement("img", { src: "/assets/Adrianne_image.jpg", className: "donskoi-image", height: "200", width: "200" })
+	                        React.createElement("img", { src: "/assets/donskoi_image.jpg", className: "donskoi-image", height: "200", width: "200" })
 	                    )
 	                ),
 	                React.createElement(
@@ -26419,52 +26419,52 @@
 	var React = __webpack_require__(8);
 	var Article = __webpack_require__(239);
 
-	var articleList = [{ avatar: "/assets/WAHS_logo2.0.png", title: "WAHS Introduction Sequence", subtitle: "",
+	var articleList = [{ avatar: "/assets/Gianna_image.jpg", title: "WAHS Introduction Sequence", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/Z53t4xdtbtE",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "WAHS News -The Office- Introduction Sequence", subtitle: "",
+	    author: "Gianna Sanchez" }, { avatar: "/assets/SofiaO_image.jpg", title: "WAHS News -The Office- Introduction Sequence", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/isoB6RAuqsM",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Back to School (Man on the Street)", subtitle: "",
+	    author: "Sofia Osio and Bailey Braeseke" }, { avatar: "/assets/Ava_image.jpg", title: "Back to School (Man on the Street)", subtitle: "",
 	    text: "Even though the school year started, we went around campus and asked students what song best described their summer.",
 	    video: "https://www.youtube.com/embed/jNTLt-r32e4",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "How to make: Rainbow Cake Cooking", subtitle: "",
+	    author: "Bailey Braeseke and Ava Courtney" }, { avatar: "/assets/Emily_image.jpg", title: "How to make: Rainbow Cake Cooking", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/q0SXoV0zPmU",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "How to make: Mini Pizzas", subtitle: "",
+	    author: "Emily Myers" }, { avatar: "/assets/WAHS_logo2.0.png", title: "How to make: Mini Pizzas", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/hMWNY7ha3hQ",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Music Adventures Band Camp (Feature)", subtitle: "",
+	    author: "Matthew Bermudez" }, { avatar: "/assets/Gianna_image.jpg", title: "Music Adventures Band Camp (Feature)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/qFUjnJQHaqE",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Wood Mill Lab (Feature)", subtitle: "",
+	    author: "Gianna Sanchez" }, { avatar: "/assets/Adrianne_image.jpg", title: "Wood Mill Lab (Feature)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/X7SqjKJrT9w",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Hitting All the Right Notes (Profile)", subtitle: "",
+	    author: "Adrianne Morales and Sofia Osio" }, { avatar: "/assets/Gianna_image.jpg", title: "Hitting All the Right Notes (Profile)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/aIZ2F3zz7fE",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Bar B Ranch (Feature)", subtitle: "",
+	    author: "Sofia Barreto and Gianna Sanchez" }, { avatar: "/assets/donskoi_image.jpg", title: "Bar B Ranch (Feature)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/6_ECz4u13MQ",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Teacher Talks (Short Film)", subtitle: "",
+	    author: "Sophia Donskoi and Gianna Sanchez" }, { avatar: "/assets/barreto_image.jpg", title: "Teacher Talks (Short Film)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/U2PqmtJsOu4",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Fall (Man on the Street)", subtitle: "",
+	    author: "Sofia Barreto and Gianna Sanchez" }, { avatar: "/assets/barreto_image.jpg", title: "Fall (Man on the Street)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/1wbeCvSimyE",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Golfing for Autism (Feature)", subtitle: "",
+	    author: "Sofia Barreto and Gianna Sanchez" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Golfing for Autism (Feature)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/FgxdcDRtg3M",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Moto Max (Profile)", subtitle: "",
+	    author: "Bailey Braeseke" }, { avatar: "/assets/donskoi_image.jpg", title: "Moto Max (Profile)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/AT2w_FOYSDM",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Serving Her Way to Success (Profile)", subtitle: "",
+	    author: "Sophia Donskoi" }, { avatar: "/assets/Ruhi_image.jpg", title: "Serving Her Way to Success (Profile)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/Y9JXIBt-o44",
-	    author: "WAHS News" }, { avatar: "/assets/WAHS_logo2.0.png", title: "Alexander Baikovitz (Profile)", subtitle: "",
+	    author: "Ruhi Mansey" }, { avatar: "/assets/maggie_image.jpg", title: "Alexander Baikovitz (Profile)", subtitle: "",
 	    text: "",
 	    video: "https://www.youtube.com/embed/SRo5UU_WPek",
-	    author: "WAHS News" }];
+	    author: "Maggie Oriol" }];
 
 	var ArticleList = React.createClass({
 	    displayName: 'ArticleList',
