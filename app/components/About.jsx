@@ -43,7 +43,7 @@ var About = React.createClass({
                         &nbsp;
                         &nbsp;
                         <a href="https://nodejs.org/en/">Node</a> - We used
-                        Node.js to deploy my website to external servers and to route between pages.
+                        Node.js to deploy our website to external servers and to route between pages.
                     </li>
                     <br></br>
                     <li className="text-center page-title">
@@ -55,7 +55,7 @@ var About = React.createClass({
                         &nbsp;
                         &nbsp;
                         <a href="http://sass-lang.com/">Sass w/ Foundation framework</a> - We used
-                        SASS/SCSS w/ Foundation Framework to style my page.
+                        SASS/SCSS w/ Foundation Framework to style our page.
                     </li>
                     <br></br>
                     <li className="text-center page-title">
