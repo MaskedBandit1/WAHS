@@ -8,7 +8,7 @@ var Article = React.createClass({
                 <div className="left-col large-2 columns">
                     <figure>
                         <img src={ this.props.avatar } className="avatar-image"
-                             alt="avatar_picture" />
+                             alt="avatar_picture" width="70" height="70"/>
                     </figure>
                     <h6> By: { this.props.author}</h6>
                 </div>

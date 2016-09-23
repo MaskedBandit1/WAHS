@@ -26526,7 +26526,7 @@
 	                    'figure',
 	                    null,
 	                    React.createElement('img', { src: this.props.avatar, className: 'avatar-image',
-	                        alt: 'avatar_picture' })
+	                        alt: 'avatar_picture', width: '70', height: '70' })
 	                ),
 	                React.createElement(
 	                    'h6',
